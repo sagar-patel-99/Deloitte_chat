@@ -1,0 +1,24 @@
+.chatgpt-container {
+    width: 500px;
+    margin: 50px auto;
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    margin-right: 10px;
+}
+
+#responseArea {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
